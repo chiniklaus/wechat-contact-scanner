@@ -1,0 +1,6 @@
+.DS_Store
+.build-cache/
+last-capture.png
+last-ocr.txt
+wechat-contacts-*.csv
+*.swp
